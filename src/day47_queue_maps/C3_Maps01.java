@@ -13,6 +13,7 @@ public class C3_Maps01 {
         objeMap.put(103, "Ali, Yan, C#");
 
         System.out.println(objeMap);
+        System.out.println("GitHub'dan merhaba!");
 
     }
 
