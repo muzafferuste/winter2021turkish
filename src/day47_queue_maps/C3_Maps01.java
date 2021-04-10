@@ -14,6 +14,7 @@ public class C3_Maps01 {
 
         System.out.println(objeMap);
         System.out.println("Git'dan merhaba!");
+        System.out.println("Git'dan merhaba!2");
 
     }
 
