@@ -6,6 +6,7 @@ public class merhabaGit {
 
         System.out.println("Merhaba git");
         System.out.println("Merhaba java");
+        System.out.println("merhaba git2");
 
     }
 
